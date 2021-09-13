@@ -6,9 +6,13 @@ Here, This repository contains all the codes of Inventory Management System duri
 
 ## Introduction
 In this Project I had created Inventory Management System which has the following operation-
+
 Add Item to My Inventory
+
 Sell Item from My Inventory
+
 A JSON file named record.json to store my Invetory.
+
 A JSON file sales.json to store transections.
 ## I have added 4 features per product
 1.Product id
@@ -20,6 +24,18 @@ A JSON file sales.json to store transections.
 4.price
 ## About Project
 This is the task give me at a Internship From Elite Techno Group.
+This project contain 5 file which are follows:
+
+1.Adding_items.ipynb
+
+2.Project.ipynb
+
+3.purchase_items.ipynb
+
+4.records.json
+
+5.sale.json
+
 My project can do following operations
 
 1.Generate Bills
